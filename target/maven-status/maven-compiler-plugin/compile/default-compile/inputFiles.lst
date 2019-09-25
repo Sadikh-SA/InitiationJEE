@@ -1,5 +1,7 @@
 /home/sadikh/Documents/InitialJEE/src/main/java/model/Utilisateur.java
 /home/sadikh/Documents/InitialJEE/src/main/java/controller/UserServelet.java
+/home/sadikh/Documents/InitialJEE/src/main/java/controller/EmployeServlet.java
+/home/sadikh/Documents/InitialJEE/src/main/java/service/EmployeDAO.java
 /home/sadikh/Documents/InitialJEE/src/main/java/service/DataBaseHelp.java
 /home/sadikh/Documents/InitialJEE/src/main/java/service/UserDao.java
 /home/sadikh/Documents/InitialJEE/src/main/java/model/Employe.java

@@ -14,21 +14,21 @@
   margin: 120px auto;
   padding: 25px 20px;
   background: gray;
-  box-shadow: 2px 2px 4px #ab8de0;
+  box-shadow: 2px 2px 4px #cccccc;
   border-radius: 5px;
-  color: #fff;
+  color: #cccccc;
      }
      .bslf h2{
     margin-top: 0px;
   margin-bottom: 15px;
   padding-bottom: 5px;
   border-radius: 10px;
-  border: 1px solid #25055f;
+  border: 1px solid #cccccc;
      }
-     .bslf a{color: #783ce2;}
+     .bslf a{color: #cccccc;}
      .bslf a:hover{
     text-decoration: none;
-      color: #03A9F4;
+      color: #cccccc;
      }
      .bslf .checkbox-inline{padding-top: 7px;}
   </style>
@@ -45,7 +45,7 @@
       </div>
       <div class="form-group clearfix">
         <label class="checkbox-inline pull-left"><input type="checkbox"> Remember me</label>
-        <button type="submit" class="btn btn-primary pull-right">Log in</button>
+        <button type="submit" class="btn btn-success pull-right">Log in</button>
       </div>
       <div class="clearfix">
         <a href="#" class="pull-left">Forgot Password?</a>

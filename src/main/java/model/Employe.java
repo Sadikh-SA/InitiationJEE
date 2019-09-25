@@ -1,13 +1,16 @@
 package model;
 
 
+import java.time.LocalDate;
+
 public class Employe {
     private  int id;
     private String matricule;
     private  String nomComplet;
-    private  int tel;
-    private String ddn;
-    private  Service service =new Service();
+    private  String tel;
+    private LocalDate ddn;
+    private double salaire;
+    private  Service idService =new Service();
 
     public int getId() {
         return id;
@@ -21,32 +24,40 @@ public class Employe {
         return nomComplet;
     }
 
-    public void setNom(String nom) {
-        this.nomComplet = nom;
+    public void setNomComplet(String nomComplet) {
+        this.nomComplet = nomComplet;
     }
 
-    public int getTel() {
+    public String getTel() {
         return tel;
     }
 
-    public void setTel(int tel) {
+    public void setTel(String tel) {
         this.tel = tel;
     }
 
-    public String getDdn() {
+    public LocalDate getDdn() {
         return ddn;
     }
 
-    public void setDdn(String ddn) {
+    public void setDdn(LocalDate ddn) {
         this.ddn = ddn;
     }
 
-    public Service getService() {
-        return service;
+    public double getSalaire() {
+        return salaire;
     }
 
-    public void setService(Service service) {
-        this.service = service;
+    public void setSalaire(double salaire) {
+        this.salaire = salaire;
+    }
+
+    public Service getIdService() {
+        return idService;
+    }
+
+    public void setIdService(Service idService) {
+        this.idService = idService;
     }
 
     public String getMatricule() {
