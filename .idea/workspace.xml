@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fefc80f6-ffc4-47d3-990e-0b34d32766fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controller/EmployeServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/EmployeDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/employe.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Employe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Employe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/admin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/admin.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/InitialJEE.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/InitialJEE.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/InitialJEE/WEB-INF/classes/controller/UserServelet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/InitialJEE/WEB-INF/classes/controller/UserServelet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/InitialJEE/WEB-INF/classes/service/DataBaseHelp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/InitialJEE/WEB-INF/classes/service/DataBaseHelp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/InitialJEE/WEB-INF/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/InitialJEE/WEB-INF/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/Employe.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Employe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/myapp/org/apache/jsp/WEB_002dINF/admin_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/myapp/org/apache/jsp/WEB_002dINF/admin_jsp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/myapp/org/apache/jsp/WEB_002dINF/admin_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/myapp/org/apache/jsp/WEB_002dINF/admin_jsp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/myapp/org/apache/jsp/WEB_002dINF/index_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/myapp/org/apache/jsp/WEB_002dINF/index_jsp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/myapp/org/apache/jsp/WEB_002dINF/index_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/myapp/org/apache/jsp/WEB_002dINF/index_jsp.java" afterDir="false" />
-    </list>
+    <list default="true" id="fefc80f6-ffc4-47d3-990e-0b34d32766fe" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

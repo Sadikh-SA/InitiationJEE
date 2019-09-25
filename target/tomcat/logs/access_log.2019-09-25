@@ -143,3 +143,7 @@
 0:0:0:0:0:0:0:1 - - [25/Sep/2019:15:43:52 +0000] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-10 2
 0:0:0:0:0:0:0:1 - - [25/Sep/2019:15:43:56 +0000] "POST /employe?action=add HTTP/1.1" 200 2302 http-bio-8080-exec-10 13
 0:0:0:0:0:0:0:1 - - [25/Sep/2019:15:43:56 +0000] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-5 1
+0:0:0:0:0:0:0:1 - - [25/Sep/2019:15:59:31 +0000] "GET /employe?action=add HTTP/1.1" 200 2302 http-bio-8080-exec-6 5
+0:0:0:0:0:0:0:1 - - [25/Sep/2019:16:00:00 +0000] "POST /employe?action=add HTTP/1.1" 200 2302 http-bio-8080-exec-6 13
+0:0:0:0:0:0:0:1 - - [25/Sep/2019:16:01:45 +0000] "GET /employe?action=add HTTP/1.1" 200 2302 http-bio-8080-exec-1 243
+0:0:0:0:0:0:0:1 - - [25/Sep/2019:16:02:11 +0000] "POST /employe?action=add HTTP/1.1" 200 2302 http-bio-8080-exec-3 462

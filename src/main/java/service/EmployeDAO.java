@@ -34,8 +34,8 @@ public class EmployeDAO {
             db.iniPreparedCmd(sql);
             db.getPstmt().setString(1, employe.getMatricule());
             db.getPstmt().setString(2, employe.getNomComplet());
-            db.getPstmt().setString(3, employe.getTel());
-            db.getPstmt().setString(4, employe.getDdn().toString());
+            db.getPstmt().setString(3, employe.getDdn().toString());
+            db.getPstmt().setString(4, employe.getTel());
             db.getPstmt().setDouble(5, employe.getSalaire());
             db.getPstmt().setInt(6,employe.getIdService().getId());
             db.My_ExecutePrepareUpdate();
